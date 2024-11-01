@@ -4,11 +4,11 @@
 # **Aligning Text-to-Image Diffusion Models with Reward Backpropagation**
 ![AlignProp](assets/method.png)
 
-[![arXiv](https://img.shields.io/badge/cs.LG-arXiv:2310.03739-b31b1b.svg)](https://arxiv.org/pdf/2310.03739v1)
+[![arXiv](https://img.shields.io/badge/cs.LG-arXiv:2310.03739-b31b1b.svg)](https://arxiv.org/pdf/2310.03739v2)
 [![Website](https://img.shields.io/badge/🌎-Website-blue.svg)](http://align-prop.github.io)
 </div>
 
-This is the official implementation of our paper [Aligning Text-to-Image Diffusion Models with Reward Backpropagation](https://arxiv.org/pdf/2310.03739v1) by Mihir Prabhudesai, Anirudh Goyal, Deepak Pathak, and Katerina Fragkiadaki.
+This is the official implementation of our paper [Aligning Text-to-Image Diffusion Models with Reward Backpropagation](https://arxiv.org/pdf/2310.03739v2) by Mihir Prabhudesai, Anirudh Goyal, Deepak Pathak, and Katerina Fragkiadaki.
 
 
 <!-- DESCRIPTION -->
